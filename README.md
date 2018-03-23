@@ -7,7 +7,7 @@ First encounter with programming to stable understanding of programming paradigm
 
 ## Recommended books
 
-original article: https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
+[original article](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list) 
 
 ### Beginner
 
@@ -101,6 +101,6 @@ Rationale for C99 Standard.
 
 (2) Dr. Wilde Laszlone - Programozasi feladatok gyujtemenye (Veszpremi egyetemi kiado)
 
-(3) Suranyi Szabolcs - Programozasi alapfeladatok (suranyisz.hu/infoA/programozasi_alapfeladatok.pdf)
+(3) [Suranyi Szabolcs - Programozasi alapfeladatok](suranyisz.hu/infoA/programozasi_alapfeladatok.pdf)
 
-(4) Smidla Jozsef - Feladatgyujtemény a C programozási nyelvhez (smidla.mik.uni-pannon.hu/sites/default/files/files/prog1/segedlet/cfeladatok.pdf)
+(4) [Smidla Jozsef - Feladatgyujtemény a C programozási nyelvhez](smidla.mik.uni-pannon.hu/sites/default/files/files/prog1/segedlet/cfeladatok.pdf)
