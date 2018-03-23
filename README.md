@@ -101,6 +101,6 @@ Rationale for C99 Standard.
 
 (2) Dr. Wilde Laszlone - Programozasi feladatok gyujtemenye (Veszpremi egyetemi kiado)
 
-(3) [Suranyi Szabolcs - Programozasi alapfeladatok](suranyisz.hu/infoA/programozasi_alapfeladatok.pdf)
+(3) [Suranyi Szabolcs - Programozasi alapfeladatok](http://suranyisz.hu/infoA/programozasi_alapfeladatok.pdf)
 
-(4) [Smidla Jozsef - Feladatgyujtemény a C programozási nyelvhez](smidla.mik.uni-pannon.hu/sites/default/files/files/prog1/segedlet/cfeladatok.pdf)
+(4) [Smidla Jozsef - Feladatgyujtemény a C programozási nyelvhez](http://smidla.mik.uni-pannon.hu/sites/default/files/files/prog1/segedlet/cfeladatok.pdf)
