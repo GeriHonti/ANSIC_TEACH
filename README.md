@@ -3,14 +3,6 @@
 My ANSIC teaching materials. Used for university classes. 
 First encounter with programming to stable understanding of programming paradigms. The class provides the students a basic level of programming skills in C.  
 
-## Recommended Skill books (in hungarian)
-(1) Pohl Laszlo - Vizsga es ZH feladatok gyujtemenye Programozas alapjai I targybol, informatikusoknak
-
-(2) Dr. Wilde Laszlone - Programozasi feladatok gyujtemenye (Veszpremi egyetemi kiado)
-
-(3) Suranyi Szabolcs - Programozasi alapfeladatok (suranyisz.hu/infoA/programozasi_alapfeladatok.pdf)
-
-(4) Smidla Jozsef - Feladatgyujtemény a C programozási nyelvhez (smidla.mik.uni-pannon.hu/sites/default/files/files/prog1/segedlet/cfeladatok.pdf)
 
 ## Recommended books
 
@@ -101,3 +93,13 @@ Various versions of the C language standards can be found here.
 The new C standard - an annotated reference (Free PDF) - Derek M. Jones (2009). The "new standard" referred to is the old C99 standard rather than C11.
  
 Rationale for C99 Standard. 
+
+
+## Recommended Skill books (in hungarian)
+(1) Pohl Laszlo - Vizsga es ZH feladatok gyujtemenye Programozas alapjai I targybol, informatikusoknak
+
+(2) Dr. Wilde Laszlone - Programozasi feladatok gyujtemenye (Veszpremi egyetemi kiado)
+
+(3) Suranyi Szabolcs - Programozasi alapfeladatok (suranyisz.hu/infoA/programozasi_alapfeladatok.pdf)
+
+(4) Smidla Jozsef - Feladatgyujtemény a C programozási nyelvhez (smidla.mik.uni-pannon.hu/sites/default/files/files/prog1/segedlet/cfeladatok.pdf)
