@@ -7,7 +7,8 @@ First encounter with programming to stable understanding of programming paradigm
 
 ## Recommended books
 
-[original article](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list) 
+List is a copy from SO: [original article](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list) PB copy: [PBLINK](https://pastebin.com/ecvP0A40) 
+
 
 ### Beginner
 
@@ -97,7 +98,7 @@ Rationale for C99 Standard.
 
 
 ## Recommended Skill books (in hungarian)
-(1) Pohl Laszlo - Vizsga es ZH feladatok gyujtemenye Programozas alapjai I targybol, informatikusoknak
+(1) [Pohl Laszlo - Vizsga es ZH feladatok gyujtemenye Programozas alapjai I targybol, informatikusoknak](https://www.google.hu/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjKgaqsg-fZAhVBEiwKHdGYA1EQFggmMAA&url=http%3A%2F%2Fwww.eet.bme.hu%2F~pohl%2FC_zh_es_vizsgafeladatok_gyujtemenye.pdf&usg=AOvVaw0Z6d3cHi3K_zeJs81zm2XZ)
 
 (2) Dr. Wilde Laszlone - Programozasi feladatok gyujtemenye (Veszpremi egyetemi kiado)
 
