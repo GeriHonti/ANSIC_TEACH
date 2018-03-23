@@ -5,8 +5,11 @@ First encounter with programming to stable understanding of programming paradigm
 
 ## Recommended Skill books (in hungarian)
 (1) Pohl Laszlo - Vizsga es ZH feladatok gyujtemenye Programozas alapjai I targybol, informatikusoknak
+
 (2) Dr. Wilde Laszlone - Programozasi feladatok gyujtemenye (Veszpremi egyetemi kiado)
+
 (3) Suranyi Szabolcs - Programozasi alapfeladatok (suranyisz.hu/infoA/programozasi_alapfeladatok.pdf)
+
 (4) Smidla Jozsef - Feladatgyujtemény a C programozási nyelvhez (smidla.mik.uni-pannon.hu/sites/default/files/files/prog1/segedlet/cfeladatok.pdf)
 
 ## Recommended books
