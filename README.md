@@ -4,16 +4,17 @@ My ANSIC teaching materials. Used for university classes.
 First encounter with programming to stable understanding of programming paradigms. The class provides the students a basic level of programming skills in C.  
 
 ## Recommended Skill books (in hungarian)
-(1) Pohl Laszlo - Vizsga es ZH feladatok gyujtemenye Programozas alapjai I targybol, informatikusoknak (https://www.google.hu/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjKgaqsg-fZAhVBEiwKHdGYA1EQFggmMAA&url=http%3A%2F%2Fwww.eet.bme.hu%2F~pohl%2FC_zh_es_vizsgafeladatok_gyujtemenye.pdf&usg=AOvVaw0Z6d3cHi3K_zeJs81zm2XZ)
+(1) Pohl Laszlo - Vizsga es ZH feladatok gyujtemenye Programozas alapjai I targybol, informatikusoknak
 (2) Dr. Wilde Laszlone - Programozasi feladatok gyujtemenye (Veszpremi egyetemi kiado)
 (3) Suranyi Szabolcs - Programozasi alapfeladatok (suranyisz.hu/infoA/programozasi_alapfeladatok.pdf)
 (4) Smidla Jozsef - Feladatgyujtemény a C programozási nyelvhez (smidla.mik.uni-pannon.hu/sites/default/files/files/prog1/segedlet/cfeladatok.pdf)
 
 ## Recommended books
+
 original article: https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list
-////////////////////////////
-<strong> Beginner: </strong>
-////////////////////////////
+
+### Beginner
+
  
 Programming in C (4th Edition) - Stephen Kochan (2014). A good general introduction and tutorial.
  
@@ -35,9 +36,9 @@ Sams Teach Yourself C in 21 Days - Bradley L. Jones and Peter Aitken (2002). Ver
 Applications Programming in ANSI C - Richard Johnsonbaugh and Martin Kalin (1996).
  
  
-////////////////////////////
-<strong> Intermediate: </strong>
-////////////////////////////
+
+### Intermediate
+
  
 Object-oriented Programming with ANSI-C (Free PDF) - Axel-Tobias Schreiner (1993). The code gets a bit convoluted. If you want C++, use C++.
  
@@ -64,9 +65,9 @@ C Unleashed - Richard Heathfield, Lawrence Kirby, et al. (2000). Not ideal, but 
 Modern C — Jens Gustedt (2017). Covers C in 5 levels (encounter, acquaintance, cognition, experience, ambition) from beginning C to advanced C. It covers C11 threads and atomic access, which few other books do and not all compilers recognize in all environments.
  
  
-////////////////////////////
-<strong> Expert: </strong>
-////////////////////////////
+
+### Expert
+
 Expert C Programming: Deep C Secrets - Peter van der Linden (1994). Lots of interesting information and war stories from the Sun compiler team, but a little dated in places.
  
 Advanced C Programming by Example - John W. Perry (1998).
@@ -81,10 +82,9 @@ Reversing: Secrets of Reverse Engineering - Eldad Eilam (2005). For those who wa
  
  
  
-////////////////////////////
-<strong> References:</strong>
-////////////////////////////
- 
+
+### References
+
 The C Programming Language (2nd Edition) - Brian W. Kernighan and Dennis M. Ritchie (1988). Still a good, short but complete introduction to C, written by the the inventor of C. However, the language has changed and good C style has developed in the last 25 years, and there are parts of the book that show its age.
  
 C: A Reference Manual (5th Edition) - Samuel P. Harbison and Guy R. Steele (2002). An excellent reference book on C, up to and including C99. It is not a tutorial, and probably unfit for beginners. It's great if you need to write a compiler for C, as the authors had to do when they started.
